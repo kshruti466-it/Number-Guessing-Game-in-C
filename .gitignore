@@ -1,0 +1,15 @@
+# Ignore build artifacts
+*.exe
+*.out
+*.o
+*.obj
+
+# Ignore workspace files
+.vscode/
+
+# Ignore temporary files
+*.tmp
+*.log
+*.bak
+*.swp
+*~
